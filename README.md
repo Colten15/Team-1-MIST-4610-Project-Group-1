@@ -49,7 +49,7 @@ Overall, the model provides a comprehensive structure to store and analyze user 
 
 <img width="1469" height="1245" alt="songs" src="https://github.com/user-attachments/assets/cc4c686a-0695-41ab-ac79-389973754ce9" />
 
-<img width="1458" height="896" alt="subscription" src="https://github.com/user-attachments/assets/f7f2db8f-57b6-4903-8ec0-9822af277a8b" />
+<img width="1628" height="733" alt="subscription (2)" src="https://github.com/user-attachments/assets/a361a4f4-0082-469d-823e-10aaba4790f5" />
 
 <img width="1466" height="820" alt="users" src="https://github.com/user-attachments/assets/d8dc88aa-1f14-4ad3-af55-9615e4fbc2b8" />
 
