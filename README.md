@@ -45,7 +45,7 @@ Overall, the model provides a comprehensive structure to store and analyze user 
 
 <img width="1628" height="905" alt="playlist" src="https://github.com/user-attachments/assets/e5bb77b1-86e4-4373-a6c6-bf874b66438e" />
 
-<img width="1634" height="556" alt="playlist has song" src="https://github.com/user-attachments/assets/066264ae-2cae-4e55-b28e-8766af4d9c14" />
+<img width="1625" height="531" alt="playlisthassong" src="https://github.com/user-attachments/assets/40e4f046-2092-4142-9bd9-863c49578a4f" />
 
 <img width="1469" height="1245" alt="songs" src="https://github.com/user-attachments/assets/cc4c686a-0695-41ab-ac79-389973754ce9" />
 
